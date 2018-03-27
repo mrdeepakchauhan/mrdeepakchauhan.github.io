@@ -11,16 +11,16 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://ayushwatnani.github.io/
+url: http://deepakchauhan.github.io/
 baseurl: "/"
-title: Ayush Watnani
-author: Ayush Watnani
+title: Deepak Chauhan
+author: Deepak Chauhan
 description: Personal blog and resume
 avatar: profile.jpg
-email: ayushwatnani@email.com
-github: ayushwatnani # username
+email: dc84477@gmail.com
+github: mrdeepakchauhan # username
 #twitter: username
-linkedin: ayushwatnani
+linkedin: deepakchauhan
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
